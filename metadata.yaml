@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: Part 1. Le gymnase moronval, etc. ; Word and phrasebook for Jack. --
   Part 2. Indret ; Word and phrasebook for Jack.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25302#Jack1877
 gutenberg_issued: '2008-05-02'
 gutenberg_type: Text
 identifiers:
